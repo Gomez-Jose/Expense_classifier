@@ -1,0 +1,5 @@
+﻿pandas
+langchain-community
+plotly
+panel
+nbformat
